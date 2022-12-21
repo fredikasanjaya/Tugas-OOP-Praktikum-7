@@ -1,4 +1,4 @@
-package Agregasi;
+package Dependensi;
 
 public interface RodaDua{
     public powerON();

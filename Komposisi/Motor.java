@@ -1,4 +1,4 @@
-package Agregasi;
+package Komposisi;
 
 public class Motor implements RodaDua{
     public String brand;
